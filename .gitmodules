@@ -1,0 +1,9 @@
+[submodule "Backend"]
+	path = Backend
+	url = git@github.com:aziz0220/AI_BID_BACKEND.git
+[submodule "Front"]
+	path = Front
+	url = git@github.com:aziz0220/AI_BID_FRONTEND.git
+[submodule "AI"]
+	path = AI
+	url = git@github.com:aziz0220/AI_BID_AI.git
