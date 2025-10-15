@@ -4,7 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AI" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Backend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Backend/supabase" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Front" vcs="Git" />
   </component>
 </project>
